@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Rest</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="id_label">El ID es </string>
+    <string name="id_value">[id]</string>
+    <string name="content_label">El contenido es:</string>
+    <string name="content_value">[content]</string>
+    <string name="action_refresh">Refresh</string>
 </resources>
